@@ -41,6 +41,9 @@ body {
     .head span {
         visibility: visible;
     }
+    .buttt{
+        visibility: visible;
+    }
 }
 
 .orange {
@@ -63,6 +66,10 @@ body {
         margin-left: 10px;
         width: 100%;
 
+    }
+    .head button{
+        visibility: visible;
+          margin-left: 200px;
     }
 }
 
